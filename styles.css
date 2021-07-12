@@ -1,0 +1,21 @@
+body {
+  background-color: #CFD3CE;
+}
+
+hr{
+  background-color: #839B97;
+  border-style: none;
+  height: 3px;
+}
+
+h1{
+  color: #34626C;
+}
+
+h3{
+  color: #34626C;
+}
+
+img{
+  height: 200px;
+}
